@@ -2,7 +2,6 @@
 
 **Site Reliability Engineer** &#12299; currently working as a Startups Architecture Consultant @ _[Amazon Web Services](https://aws.amazon.com)_
 
-
 ![code](https://img.shields.io/static/v1?label=&message=code:&color=555&style=flat-square)
 ![hcl](https://img.shields.io/static/v1?logo=terraform&label=&message=hcl&color=111&logoColor=AAA&style=flat-square)
 ![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
@@ -21,7 +20,7 @@
 
 ### 📰 articles
 
-* [_aws/bulkhead pattern with service mesh_](https://amzn.to/3cBrkRt)
+* [_aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
 * [_aws/migrating self-hosted kubernetes to eks_](https://bit.ly/KOPS2EKS)
 * [_heycar/serving images at scale_](https://bit.ly/35sM9ut)
 * [_heycar/tensorflow image classification at scale_](https://bit.ly/3cEpD5D)
@@ -47,4 +46,4 @@
   <img align="left" alt="Marcelos's SoundCloud" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://marceloboeira.com](https://marceloboeira.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source: <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website: [https://marceloboeira.com](https://marceloboeira.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source: <sub>&#9660; &#9660; &#9660;</sub>
