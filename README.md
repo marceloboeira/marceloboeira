@@ -43,5 +43,8 @@
 <a href="https://medium.com/@marceloboeira">
   <img align="left" alt="Marcelos's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="http://soundcloud.com/marceloboeira">
+  <img align="left" alt="Marcelos's SoundCloud" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
+</a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://marceloboeira.com](https://marceloboeira.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source: <sub>&#9660; &#9660; &#9660;</sub>
