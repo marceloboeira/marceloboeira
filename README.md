@@ -40,8 +40,11 @@
 
 ### 📰 articles
 
-* [_aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
+* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square) _aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
 * [_aws/migrating self-hosted kubernetes to eks_](https://bit.ly/KOPS2EKS)
+* [_linkedin/how important communication is for startup engineers_](https://bit.ly/3zzRSMT)
+* [_linkedin/let's talk about infrastructure costs_](https://bit.ly/3pSONTw)
+* [_linkedin/operations, devops && site reliability engineernig_](https://bit.ly/2RREkLq)
 * [_heycar/serving images at scale_](https://bit.ly/35sM9ut)
 * [_heycar/tensorflow image classification at scale_](https://bit.ly/3cEpD5D)
 * [_observability is not monitoring_](https://bit.ly/35c7Aj4)
