@@ -54,6 +54,10 @@
 * [_the art of multiplexing_](https://bit.ly/3pTVkNS)
 * [_do I need to know math to be a developer?_](https://bit.ly/3wkGQbY)
 
+### 📼 talks
+
+* [practical event driven](https://bit.ly/35ydZFH)
+
 ----
 
 <a href="https://linkedin.com/in/marceloboeira">
