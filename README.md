@@ -32,7 +32,7 @@
 ![datadog](https://img.shields.io/static/v1?logo=datadog&label=&message=datadog&color=111&logoColor=AAA&style=flat-square)
 
 ![worksat](https://img.shields.io/static/v1?label=&message=work:&color=555&style=flat-square)
-[![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&color=111&style=flat-square)](https://aws.amazon.com)
+[![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&logoColor=FF9900&color=111&style=flat-square)](https://aws.amazon.com)
 [![airbnb](https://img.shields.io/static/v1?logo=airbnb&label=&message=airbnb&color=111&style=flat-square)](https://airbnb.com)
 [![hey-car](https://img.shields.io/static/v1?logo=-&label=&message=startups&color=111&style=flat-square)](https://hey.car)
 
