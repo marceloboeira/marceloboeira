@@ -23,7 +23,7 @@
 ![alpine](https://img.shields.io/static/v1?logo=alpinelinux&label=&message=alpine&color=111&logoColor=AAA&style=flat-square)
 ![consul](https://img.shields.io/static/v1?logo=consul&label=&message=consul&color=111&logoColor=AAA&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
-![apachekafka](https://img.shields.io/static/v1?logo=apachekafka&label=&message=apachekafka&color=111&logoColor=AAA&style=flat-square)
+![apachekafka](https://img.shields.io/static/v1?logo=apachekafka&label=&message=kafka&color=111&logoColor=AAA&style=flat-square)
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=pgsql&color=111&logoColor=AAA&style=flat-square)
 ![elasticsearch](https://img.shields.io/static/v1?logo=elasticsearch&label=&message=elasticsearch&color=111&logoColor=AAA&style=flat-square)
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=redis&color=111&logoColor=AAA&style=flat-square)
