@@ -11,13 +11,14 @@
 ![haskell](https://img.shields.io/static/v1?logo=haskell&label=&message=haskell&color=111&logoColor=AAA&style=flat-square)
 
 ![local](https://img.shields.io/static/v1?label=&message=local:&color=555&style=flat-square)
-![macOS](https://img.shields.io/static/v1?logo=apple&label=&message=macOS&color=111&logoColor=AAA&style=flat-square)
 ![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=bash&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![tmux](https://img.shields.io/static/v1?logo=tmux&label=&message=tmux&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![macOS](https://img.shields.io/static/v1?logo=apple&label=&message=macOS&color=111&logoColor=AAA&style=flat-square)
 ![safari](https://img.shields.io/static/v1?logo=safari&label=&message=safari&color=111&logoColor=AAA&style=flat-square)
 ![mobile](https://img.shields.io/static/v1?logo=ios&label=&message=iOS&color=111&logoColor=AAA&style=flat-square)
+![headphones](https://img.shields.io/static/v1?logo=beatsbydre&label=&message=beats&color=111&logoColor=AAA&style=flat-square)
 
 ![infra](https://img.shields.io/static/v1?label=&message=infra:&color=555&style=flat-square)
 ![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square)
