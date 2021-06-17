@@ -16,6 +16,7 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![tmux](https://img.shields.io/static/v1?logo=tmux&label=&message=tmux&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![safari](https://img.shields.io/static/v1?logo=safari&label=&message=safari&color=111&logoColor=AAA&style=flat-square)
 
 ![infra](https://img.shields.io/static/v1?label=&message=infra:&color=555&style=flat-square)
 ![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square)
