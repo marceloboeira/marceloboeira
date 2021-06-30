@@ -59,7 +59,7 @@
 
 ### 📼 talks
 
-* [practical event driven](https://bit.ly/35ydZFH)
+* [practical event driven architecture](https://bit.ly/35ydZFH)
 
 ----
 
