@@ -1,6 +1,6 @@
 ### Hi, I'm Marcelo! 🐙
 
-**Site Reliability Engineer** &#12299; currently working as a Startups Architecture Consultant @ _[Amazon Web Services](https://aws.amazon.com)_
+**Sr. Site Reliability Engineer** &#12299; currently working  @ _[SeatGeek](https://seatgeek.com)_
 
 ![code](https://img.shields.io/static/v1?label=&message=code:&color=555&style=flat-square)
 ![hcl](https://img.shields.io/static/v1?logo=terraform&label=&message=hcl&color=111&logoColor=AAA&style=flat-square)
@@ -35,6 +35,7 @@
 ![datadog](https://img.shields.io/static/v1?logo=datadog&label=&message=datadog&color=111&logoColor=AAA&style=flat-square)
 
 ![worksat](https://img.shields.io/static/v1?label=&message=work:&color=555&style=flat-square)
+[![seatgeek](https://img.shields.io/static/v1?logo=seatgeek&label=&message=seatgeek&logoColor=FF9900&color=111&style=flat-square)](https://seatgeek.com/)
 [![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&logoColor=FF9900&color=111&style=flat-square)](https://aws.amazon.com)
 [![airbnb](https://img.shields.io/static/v1?logo=airbnb&label=&message=airbnb&color=111&style=flat-square)](https://airbnb.com)
 [![hey-car](https://img.shields.io/static/v1?logo=-&label=&message=startups&color=111&style=flat-square)](https://hey.car)
