@@ -1,6 +1,6 @@
 ### Hi, I'm Marcelo! 🐙
 
-**Sr. Site Reliability Engineer** &#12299; currently working  @ _[SeatGeek](https://seatgeek.com)_
+**Staff Site Reliability Engineer** &#12299; currently working  @ _[SeatGeek](https://seatgeek.com)_
 
 ![code](https://img.shields.io/static/v1?label=&message=code:&color=555&style=flat-square)
 ![hcl](https://img.shields.io/static/v1?logo=terraform&label=&message=hcl&color=111&logoColor=AAA&style=flat-square)
