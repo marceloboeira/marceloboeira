@@ -44,7 +44,7 @@
 
 ### 📰 articles
 
-* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square) _linkedin/SLOS_are_USELESS_](bit.ly/SLOs-are-useless)
+* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square) _linkedin/SLOS_are_USELESS_](http://bit.ly/SLOs-are-useless)
 * [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square) _linkedin/stop circular dependencies_](https://bit.ly/circular-dependencies)
 * [ _aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
 * [_aws/migrating self-hosted kubernetes to eks_](https://bit.ly/KOPS2EKS)
