@@ -2,6 +2,7 @@
 
 **Staff Software Engineer** &#12299; currently working  @ _[SeatGeek](https://seatgeek.com)_
 
+
 ![code](https://img.shields.io/static/v1?label=&message=code:&color=555&style=flat-square)
 ![hcl](https://img.shields.io/static/v1?logo=terraform&label=&message=hcl&color=111&logoColor=AAA&style=flat-square)
 ![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
@@ -44,9 +45,10 @@
 
 ### 📰 articles
 
-* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square) _linkedin/SLOS_are_USELESS_](http://bit.ly/SLOs-are-useless)
-* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square) _linkedin/stop circular dependencies_](https://bit.ly/circular-dependencies)
-* [ _aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
+* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square)_linkedin/STOP using TF remote state lookups_](bit.ly/Stop-RemoteTF-Lookups)
+* [_linkedin/SLOS_are_USELESS_](http://bit.ly/SLOs-are-useless)
+* [_linkedin/stop circular dependencies_](https://bit.ly/circular-dependencies)
+* [_aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
 * [_aws/migrating self-hosted kubernetes to eks_](https://bit.ly/KOPS2EKS)
 * [_linkedin/how important communication is for startup engineers_](https://bit.ly/3zzRSMT)
 * [_linkedin/let's talk about infrastructure costs_](https://bit.ly/3pSONTw)
@@ -62,7 +64,7 @@
 
 ### 📼 talks
 
-* [2019 — practical event driven architecture](https://bit.ly/35ydZFH)
+* [practical event driven architecture (2019)](https://bit.ly/35ydZFH)
 
 ----
 
