@@ -1,14 +1,13 @@
 ### Hi, I'm Marcelo! 🐙
 
-**Staff Software Engineer** &#12299; currently working  @ _[SeatGeek](https://seatgeek.com)_
+**Staff Software Engineer** &#12299; currently working @ _[SeatGeek](https://seatgeek.com)_
 
 
 ![code](https://img.shields.io/static/v1?label=&message=code:&color=555&style=flat-square)
 ![hcl](https://img.shields.io/static/v1?logo=terraform&label=&message=hcl&color=111&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=111&logoColor=AAA&style=flat-square)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=go&color=111&logoColor=AAA&style=flat-square)
 ![rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=111&logoColor=AAA&style=flat-square)
-![elm](https://img.shields.io/static/v1?logo=elm&label=&message=elm&color=111&logoColor=AAA&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=hcl&color=111&logoColor=AAA&style=flat-square)
 ![haskell](https://img.shields.io/static/v1?logo=haskell&label=&message=haskell&color=111&logoColor=AAA&style=flat-square)
 
 ![local](https://img.shields.io/static/v1?label=&message=local:&color=555&style=flat-square)
@@ -19,15 +18,13 @@
 ![macOS](https://img.shields.io/static/v1?logo=apple&label=&message=macOS&color=111&logoColor=AAA&style=flat-square)
 ![safari](https://img.shields.io/static/v1?logo=safari&label=&message=safari&color=111&logoColor=AAA&style=flat-square)
 ![mobile](https://img.shields.io/static/v1?logo=ios&label=&message=iOS&color=111&logoColor=AAA&style=flat-square)
-![headphones](https://img.shields.io/static/v1?logo=beatsbydre&label=&message=beats&color=111&logoColor=AAA&style=flat-square)
+![headphones](https://img.shields.io/static/v1?logo=sony&label=&message=sony&color=111&logoColor=AAA&style=flat-square)
 
 ![infra](https://img.shields.io/static/v1?label=&message=infra:&color=555&style=flat-square)
 ![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![alpine](https://img.shields.io/static/v1?logo=alpinelinux&label=&message=alpine&color=111&logoColor=AAA&style=flat-square)
-![consul](https://img.shields.io/static/v1?logo=consul&label=&message=consul&color=111&logoColor=AAA&style=flat-square)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
-![apachekafka](https://img.shields.io/static/v1?logo=apachekafka&label=&message=kafka&color=111&logoColor=AAA&style=flat-square)
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=pgsql&color=111&logoColor=AAA&style=flat-square)
 ![elasticsearch](https://img.shields.io/static/v1?logo=elasticsearch&label=&message=elasticsearch&color=111&logoColor=AAA&style=flat-square)
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=redis&color=111&logoColor=AAA&style=flat-square)
@@ -41,30 +38,6 @@
 [![airbnb](https://img.shields.io/static/v1?logo=airbnb&label=&message=airbnb&color=111&style=flat-square)](https://airbnb.com)
 [![volkswagen](https://img.shields.io/static/v1?logo=volkswagen&label=&message=volkswagen&color=111&style=flat-square)](https://hey.car)
 
-----
-
-### 📰 articles
-
-* [![hot](https://img.shields.io/static/v1?label=&message=new!&logoColor=FFF&color=FF0000&style=flat-square)_linkedin/STOP using TF remote state lookups_](bit.ly/Stop-RemoteTF-Lookups)
-* [_linkedin/SLOS_are_USELESS_](http://bit.ly/SLOs-are-useless)
-* [_linkedin/stop circular dependencies_](https://bit.ly/circular-dependencies)
-* [_aws/bulkhead pattern with service mesh_](https://amzn.to/3xjURqO)
-* [_aws/migrating self-hosted kubernetes to eks_](https://bit.ly/KOPS2EKS)
-* [_linkedin/how important communication is for startup engineers_](https://bit.ly/3zzRSMT)
-* [_linkedin/let's talk about infrastructure costs_](https://bit.ly/3pSONTw)
-* [_linkedin/operations, devops && site reliability engineernig_](https://bit.ly/2RREkLq)
-* [_heycar/serving images at scale_](https://bit.ly/35sM9ut)
-* [_heycar/tensorflow image classification at scale_](https://bit.ly/3cEpD5D)
-* [_observability is not monitoring_](https://bit.ly/35c7Aj4)
-* [_cornerstores of a productive development team_](https://bit.ly/3xcjeq0)
-* [_why you should build your own nosql database_](https://bit.ly/3wvWvVW)
-* [_dynamic video recommendation_](https://bit.ly/2TsbNfK)
-* [_the art of multiplexing_](https://bit.ly/3pTVkNS)
-* [_do I need to know math to be a developer?_](https://bit.ly/3wkGQbY)
-
-### 📼 talks
-
-* [practical event driven architecture (2019)](https://bit.ly/35ydZFH)
 
 ----
 
@@ -77,8 +50,6 @@
 <a href="https://medium.com/@marceloboeira">
   <img align="left" alt="Marcelos's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://soundcloud.com/marceloboeira">
-  <img align="left" alt="Marcelos's SoundCloud" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" />
-</a>
+
 
 | &nbsp;&nbsp;&nbsp; Website: [https://marceloboeira.com](https://marceloboeira.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source: <sub>&#9660; &#9660; &#9660;</sub>
