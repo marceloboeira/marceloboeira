@@ -28,7 +28,7 @@
 ![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=pgsql&color=111&logoColor=AAA&style=flat-square)
 ![elasticsearch](https://img.shields.io/static/v1?logo=elasticsearch&label=&message=elasticsearch&color=111&logoColor=AAA&style=flat-square)
 ![redis](https://img.shields.io/static/v1?logo=redis&label=&message=redis&color=111&logoColor=AAA&style=flat-square)
-![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
+![aws](https://img.shields.io/static/v1?logo=amazon&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=AAA&style=flat-square)
 ![datadog](https://img.shields.io/static/v1?logo=datadog&label=&message=datadog&color=111&logoColor=AAA&style=flat-square)
 
